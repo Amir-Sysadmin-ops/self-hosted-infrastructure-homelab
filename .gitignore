@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
+*.env
+.env
+*.key
+*.pem
+*.crt
+*.p12
+*.json
+
+# Cloudflare / credentials
+*tunnel*
+*credentials*
+
+# Temporary files
+*.tmp
+*.bak
