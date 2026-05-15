@@ -64,7 +64,7 @@ Die Infrastruktur basiert auf einer mehrschichtigen Architektur zur Trennung von
 
 
 
-!\[Architekturdiagramm](screenshots/architecture-diagram.png)
+!\[Architekturdiagramm](./screenshots/architecture-diagram.png)
 
 
 
@@ -112,7 +112,7 @@ Nextcloud dient als private selbst gehostete Cloud-Lösung zur Datei- und Datenv
 
 
 
-!\[Nextcloud](screenshots/nextcloud.png)
+!\[Nextcloud](./screenshots/nextcloud.png)
 
 
 
@@ -128,7 +128,7 @@ Heimdall dient als zentrale Verwaltungsoberfläche für die Infrastruktur und de
 
 
 
-!\[Heimdall Dashboard](screenshots/heimdall.png)
+!\[Heimdall Dashboard](./screenshots/heimdall.png)
 
 
 
@@ -144,7 +144,7 @@ Netdata ermöglicht die Echtzeitüberwachung von CPU, Arbeitsspeicher, Netzwerkv
 
 
 
-!\[Netdata Monitoring](screenshots/netdata.png)
+!\[Netdata Monitoring](./screenshots/netdata.png)
 
 
 
@@ -160,7 +160,7 @@ Portainer dient der Verwaltung und Überwachung der Docker-basierten Infrastrukt
 
 
 
-!\[Portainer](screenshots/portainer.png)
+!\[Portainer](./screenshots/portainer.png)
 
 
 
@@ -180,7 +180,7 @@ Proxmox VE stellt die zugrunde liegende Virtualisierungsplattform für den Betri
 
 
 
-!\[Proxmox Dashboard](screenshots/proxmox.png)
+!\[Proxmox Dashboard](./screenshots/proxmox.png)
 
 
 
@@ -196,7 +196,7 @@ Docker wird zur Isolation und Verwaltung der einzelnen Infrastruktur-Dienste ein
 
 
 
-!\[Docker Container Übersicht](screenshots/docker.png)
+!\[Docker Container Übersicht](./screenshots/docker.png)
 
 
 
@@ -236,7 +236,7 @@ Implementierte Sicherheitsmaßnahmen:
 
 
 
-!\[Cloudflare Tunnel](screenshots/cloudflare-tunnel.png)
+!\[Cloudflare Tunnel](./screenshots/cloudflare-tunnel.png)
 
 
 
@@ -248,7 +248,7 @@ Implementierte Sicherheitsmaßnahmen:
 
 
 
-!\[Cloudflare Zero Trust](screenshots/cloudflare-zero-trust.png)
+!\[Cloudflare Zero Trust](./screenshots/cloudflare-zero-trust.png)
 
 
 
